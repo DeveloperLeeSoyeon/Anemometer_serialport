@@ -15,7 +15,7 @@
 <br/><br/><br/>
 
 ## 🛠 Tech stack
-<img src="https://img.shields.io/badge/-React-339933?style=flat-plastic&logo=React&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-plastic&logo=Node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>
 <br/><br/><br/><br/>
 
 
